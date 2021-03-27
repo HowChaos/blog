@@ -1,5 +1,5 @@
 # blog
-一个博客仓库。所有的内容通过issue的方式发布。
+This is a blog repository. It would be released by issue a new issue.
 
 ## some labels
 1. **dictionary of some interesting terms**
