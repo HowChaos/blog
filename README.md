@@ -1,4 +1,4 @@
-# blog
+# Chaos Blog
 This is a blog repository. It would be released by issue a new issue.
 
 ## some labels
